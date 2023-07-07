@@ -1,0 +1,7 @@
+Configuracion Express.js
+npm init
+npm install express --save
+npm install mysql --save
+npm instal body-parser --save-dev
+npm install nodemon --save-dev
+npm run dev
